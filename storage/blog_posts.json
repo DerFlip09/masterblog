@@ -1,0 +1,4 @@
+[
+  {"id": 1, "author": "John Doe", "title": "First blog post", "content": "this is a first"},
+  {"id": 2, "author": "Jane Doe", "title": "Second blog post", "content": "this is a second"}
+]
