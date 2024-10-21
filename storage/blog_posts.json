@@ -1,4 +1,20 @@
 [
-  {"id": 1, "author": "John Doe", "title": "First blog post", "content": "this is a first"},
-  {"id": 2, "author": "Jane Doe", "title": "Second blog post", "content": "this is a second"}
+    {
+        "id": 1,
+        "author": "John Doe",
+        "title": "First blog post",
+        "content": "this is a first"
+    },
+    {
+        "id": 2,
+        "author": "Jane Doe",
+        "title": "Second blog post",
+        "content": "this is a second"
+    },
+    {
+        "id": 3,
+        "author": "Jon Doe",
+        "title": "Third Blog Post",
+        "content": "this is the third"
+    }
 ]

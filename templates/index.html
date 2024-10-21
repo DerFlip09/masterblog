@@ -15,5 +15,10 @@
         <p>{{ post["content"] }}</p>
     </div>
     {% endfor %}
+    <div>
+        <a href="{{ url_for('add') }}">
+            <button type="button">Add New Post</button>
+        </a>
+    </div>
 </body>
 </html>
